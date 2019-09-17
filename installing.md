@@ -4,9 +4,9 @@
 
 ## Scripted method
 
-It's very simple - paste this command into a Linux terminal (on Android use termux): ```"$SHELL" -c '$SHELL <(curl -Ls https://raw.githubusercontent.com/friendly-telegram/friendly-telegram/master/install.sh)'```
+It's very simple - paste this command into a Linux terminal (on Android use termux): ```"$SHELL" -c '$SHELL <('"$(which curl >/dev/null && echo 'curl -Ls' || echo 'wget -qO-')"' https://git.io/JeOXn)'```
 
-Or, for Windows, paste this command in a Powershell window: ```Invoke-Expression((New-Object Net.WebClient).DownloadString("https://raw.githubusercontent.com/friendly-telegram/friendly-telegram/master/install.ps1"))```
+Or, for Windows, paste this command in a Powershell window: ```Invoke-Expression((New-Object Net.WebClient).DownloadString("https://git.io/JeOX4"))```
 
 ## Manual method
 
