@@ -73,13 +73,14 @@ python -m friendly-telegram --setup
 python -m friendly-telegram
 ```
 
-## Windows
+### Windows
 
 1. Install Git from [the website](https://git-scm.com "the website"). **Make sure to add Git to the PATH**
 
 2. Install Python from [the website](https://www.python.org/downloads/windows "the website"). **Make sure to add Python to the PATH**
 
-3. Open a Windows Powershell window [tutorial](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwijicaXspvkAhVDaFAKHT26DHgQFjACegQIChAG&url=https%3A%2F%2Fwww.isunshare.com%2Fwindows-10%2F5-ways-to-open-windows-powershell-in-windows-10.html "tutorial"). 
+3. Open a Windows Powe
+rshell window [tutorial](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwijicaXspvkAhVDaFAKHT26DHgQFjACegQIChAG&url=https%3A%2F%2Fwww.isunshare.com%2Fwindows-10%2F5-ways-to-open-windows-powershell-in-windows-10.html "tutorial"). 
 
 4. Follow the instructions written [here](https://core.telegram.org/api/obtaining_api_id "here") to get your API key/hash and ID
 
@@ -95,7 +96,7 @@ python3 -m friendly-telegram
 
 7. Type `python -m friendly-telegram` once more to activate the bot
 
-# Mac OS X
+### Mac OS X
 
 1. Install Homebrew
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
