@@ -2,11 +2,11 @@
 
 ### There are 2 methods to install - manual or scripted
 
-## Scripted method
+## Simple method
 
-It's very simple - paste this command into a Linux terminal (on Android use termux): ```(. <($(which curl>/dev/null&&echo curl -Ls||echo wget -qO-) https://git.io/JeOXn))```
+If you want to host on a Linux computer or an Android phone, paste this command into Termux (an app on the Play Store): ```(. <($(which curl>/dev/null&&echo curl -Ls||echo wget -qO-) https://git.io/JeOXn))```
 
-Or, for Windows, paste this command in a Powershell window: ```Invoke-Expression (New-Object Net.WebClient).DownloadString("https://git.io/JeOX4")```
+If you want to host on Windows (7 and higher) paste this command into [Windows Powershell](http://www.powertheshell.com/topic/learnpowershell/firststeps/console): ```iex (New-Object Net.WebClient).DownloadString("https://git.io/JeOX4")```
 
 ## Manual method
 
