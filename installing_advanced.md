@@ -92,7 +92,8 @@ python3 -m friendly-telegram
 7. Type 
 ```
 python -m friendly-telegram
-``` once more to activate the bot
+```
+once more to activate the bot
 
 ## Mac OS X
 
