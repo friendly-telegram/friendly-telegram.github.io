@@ -4,7 +4,9 @@ The configuration interface is a little difficult to navigate. This attempts to 
 
 ## Entering configuration
 
-`python -m friendly-telegram --setup`
+```
+python -m friendly-telegram --setup
+```
 
 ## Operating modes
 
@@ -35,7 +37,7 @@ Additionally, some modules require API keys. These are used for external service
 This userbot is highly modular and each module can be configured individually, or disabled entirely.
 If you disable a module, it will not be loaded at startup. To re-enable it, you have to edit the configuration and restart the userbot.
 
-Module settings are stored **inside your Telegram account**. To debug this, search for a chat named "friendly-{id}-data". It contains a JSON dump of the database. This includes config as well as other data such as your AFK status. **You should never share this message or add anyone to that chat**. It contains personal data such as API keys. 
+Module settings are stored **inside your Telegram account**. To debug this, search for a chat named `friendly-{id}-data`. It contains a JSON dump of the database. This includes config as well as other data such as your AFK status. **You should never share this message or add anyone to that chat**. It contains personal data such as API keys. 
 
 To set a module config, first enter the configurator. Select Modules. Choose the module you want to set an API key for, and press enter. Scroll down to the config entry for the api key and enter the value, pressing enter when done.
 

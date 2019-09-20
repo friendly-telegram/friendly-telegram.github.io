@@ -5,10 +5,14 @@ This is split into several methods, one for each supported OS.
 ## Debian-like Linux
 
 1. Update package list
-```sudo apt update```
+```
+sudo apt update
+```
 
 2. Install required packages
-```sudo apt install python3 python3-pip git```
+```
+sudo apt install python3 python3-pip git
+```
 
 3. Install optional modular dependencies (required for some modules)
 ```
@@ -38,7 +42,9 @@ python3 -m pip install -r requirements.txt
 6. Follow the instructions written [here](https://core.telegram.org/api/obtaining_api_id "here") to get your API key/hash and ID
 
 7. Run the configuration script
-```python3 -m friendly-telegram --setup```
+```
+python3 -m friendly-telegram --setup
+```
 
 8. On the newly opened menu, select "API Key/hash and ID"
 When prompted, enter your API key/hash and ID
@@ -83,15 +89,22 @@ python3 -m friendly-telegram
 
 6. Enter the API hash and ID when prompted (note the menu is a little archeic on Windows, read everything the program outputs to get a better understanding)
 
-7. Type ```python -m friendly-telegram``` once more to activate the bot
+7. Type 
+```
+python -m friendly-telegram
+``` once more to activate the bot
 
 ## Mac OS X
 
 1. Install Homebrew
-`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 2. Install required packages
-`brew install python3  git`
+```
+brew install python3  git
+```
 
 3. Install optional modular dependencies (required for some modules)
 ```
@@ -117,4 +130,8 @@ python -m friendly-telegram
 
 7. Enter your API hash and ID when prompted
 
-8. Type ```python -m friendly-telegram``` once more to activate the bot
+8. Type 
+```
+python -m friendly-telegram
+```
+ once more to activate the bot
