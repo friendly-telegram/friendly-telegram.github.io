@@ -5,7 +5,7 @@ This is split into several methods, one for each supported OS.
 ## Debian-like Linux
 
 1. Update package list
-` sudo apt update`
+`sudo apt update`
 
 2. Install required packages
 `sudo apt install python3 python3-pip git`
