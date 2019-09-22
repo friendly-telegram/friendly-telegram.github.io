@@ -4,11 +4,12 @@ Read [about configuration of modules](configuration#configuring-modules "about c
 
 ## Acquiring an API key:
 
-1. Go to [the website](https://coffeehouse.intellivoid.info "the website") and register for an account.
+1. Go to [the CoffeeHouse website](https://coffeehouse.intellivoid.info "the website") and register for an account.
 
-2. Join [the group](https://t.me/IntellivoidDev "the group") and send your **username** (not password or email), and tag an admin.
+2. Join [the group](https://t.me/IntellivoidDev "the group") and type #activateapi
 
-3. Wait for an admin to notify you that your account is activated.
+3. Follow the instructions sent in the group
 
-4. Visit [the website](https://coffeehouse.intellivoid.info "the website") again and copy'n'paste the API key into the configurator.
+4. Visit [the website](https://coffeehouse.intellivoid.info "the website") again. Now, your API key should be visible. Copy it to your clipboard
 
+5. Enter [the configurator](configuration#configuring-modules). Select: Modules -> Lydia Anti-PM -> CLIENT_KEY and paste the key from your clipboard. Exit the configurator and type `.restart` in Telegram.
