@@ -14,6 +14,11 @@ If you want to host on **Windows** (7 and higher) paste this command into [Windo
 iex (New-Object Net.WebClient).DownloadString("https://git.io/JeOX4")
 ```
 
+If you want to host on **PythonAnywhere** (and other GNU-like platforms that don't have `/dev/fd/*` or bash named pipe support)
+```
+$(which curl>/dev/null&&echo curl -LsO||echo wget -q) https://git.io/JeOXn&&(. JeOXn);rm JeOXn
+```
+
 ## Advanced method
 
 [Click Here](installing_advanced "Advanced installation")
