@@ -1,4 +1,6 @@
-# Core modules/commands (Basic userbot stuff.)
+# Core
+
+Core modules that are always loaded to the userbot
 
 ## Core Control
 
