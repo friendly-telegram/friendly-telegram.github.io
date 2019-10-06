@@ -22,7 +22,7 @@ Core modules that are always loaded to the userbot
 
  - **Add command alias** [Syntax: `addalias <alias> <command>`]
 
-   The default command names too long for you ?
+   The default command names too long for you?
 
    Set an alias for it using this command.
 
@@ -57,7 +57,7 @@ Core modules that are always loaded to the userbot
 
    Loads the 3rd party (external) module into your userbot.
 
-   *Did you know that this feature also loads Paperplane and UniBorg modules too ?*
+   *Did you know that this feature also loads Paperplane and UniBorg modules too?*
 
  - **Unloading custom modules**
 
@@ -65,4 +65,4 @@ Core modules that are always loaded to the userbot
 
    Loads the 3rd party (external) module into your userbot.
 
-   *Did you know that this feature also loads Paperplane and UniBorg modules too ?*
+   *Did you know that this feature also loads Paperplane and UniBorg modules too?*
