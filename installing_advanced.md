@@ -35,7 +35,7 @@ cd friendly-telegram
 
 5. Install requirements
 ```
-python3 -m pip install cryptg cairosvg
+python3 -m pip install -r optional-requirements.txt
 python3 -m pip install -r requirements.txt
 ```
 
@@ -61,7 +61,7 @@ python3 -m friendly-telegram
 pkg install git python libjpeg-turbo zlib libwebp libffi libcairo build-essential dialog neofetch
 git clone https://github.com/friendly-telegram/friendly-telegram
 cd friendly-telegram
-pip install cryptg
+pip install -r optional-requirements.txt
 pip install -r requirements.txt
 # For setup
 python -m friendly-telegram --setup
