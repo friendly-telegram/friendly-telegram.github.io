@@ -35,7 +35,7 @@ cd friendly-telegram
 
 5. Install requirements
 ```
-python3 -m pip install cryptg
+python3 -m pip install cryptg cairosvg
 python3 -m pip install -r requirements.txt
 ```
 
