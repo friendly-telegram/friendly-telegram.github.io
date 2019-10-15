@@ -13,6 +13,10 @@ If you want to host on **Windows** (7 and higher) paste this command into [Windo
 ```
 iex (New-Object Net.WebClient).DownloadString("https://git.io/JeOX4")
 ```
+Or for Heroku on **Windows**:
+```
+iex (New-Object Net.WebClient).DownloadString("https://git.io/Je8b0")
+```
 
 If you want to host on **PythonAnywhere** (and other GNU-like platforms that don't have `/dev/fd/*` or bash named pipe support)
 ```
