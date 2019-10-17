@@ -1,6 +1,6 @@
 # Modules
 
-- Core modules
+- [Core modules](core "Core modules")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTMyMzkzNV19
+eyJoaXN0b3J5IjpbNzMzOTI3MTc5XX0=
 -->
