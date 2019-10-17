@@ -53,7 +53,7 @@ Core modules that are always loaded to the userbot
  - **Module Presets** 
 [Syntax: `dlpreset <preset name>`]
 
-   Quickly change userbot "Profiles" according to your need.
+   Quickly change userbot "Profiles" according to your need. Note that these only apply after a restart.
 
    Available presets:
     - *Full:* `dlpreset full` 
@@ -138,3 +138,6 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
 [Syntax: `download`]
 
    Downloads the userbot updates into the machine, and leaves the `restart` option to you.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg5ODM3MzFdfQ==
+-->
