@@ -110,7 +110,7 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
  - **Dump raw data of message**
 [Syntax: `dump` as a reply to the message]
 
-  Returns the raw data of the message as a JSON-structured string.
+  Returns the raw data of the message as a Python-structure-like string.
 
  - **Get userbot traceback logs**
 [Syntax: `logs <log level>`]
@@ -139,5 +139,5 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
 
    Downloads the userbot updates into the machine, and leaves the `restart` option to you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjExMTQ3Nl19
+eyJoaXN0b3J5IjpbLTQ3MzI4ODYwMF19
 -->
