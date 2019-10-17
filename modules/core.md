@@ -82,7 +82,7 @@ loads only the core modules.
  - **Kill all other userbot sessions.**
 [Syntax: `cleanbots`]
 
-   Kills all other userbot sessions, to make sure that there's only one userbot running on your account. The userbot session with the lowest ping is the one likely to be left alive for better experience.
+   Kills all other userbot sessions, to make sure that there's only one userbot running on your account. This is important, as otherwise commands will crash due to attempting to do them twice. The userbot session with the lowest ping is the one likely to be left alive for better experience.
 
 ## Userbot as a Python console.
 
@@ -139,5 +139,5 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
 
    Downloads the userbot updates into the machine, and leaves the `restart` option to you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODM3MzFdfQ==
+eyJoaXN0b3J5IjpbMTM0NjExMTQ3Nl19
 -->
