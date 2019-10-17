@@ -110,17 +110,17 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
  - **Dump raw data of message**
 [Syntax: `dump` as a reply to the message]
 
-  Returns the raw data of the message as a Python-structure-like string.
+   Returns the raw data of the message as a Python-structure-like string.
 
  - **Get userbot traceback logs**
 [Syntax: `logs <log level>`]
 
-  Uploads a text file with the userbot traceback data at the specified log level. Know more about the `log level` arguement [here](https://docs.python.org/3/library/logging.html#logging-levels).
+   Uploads a text file with the userbot traceback data at the specified log level. Know more about the `log level` arguement [here](https://docs.python.org/3/library/logging.html#logging-levels).
 
  - **Suspend the userbot for a few seconds**
 [Syntax: `suspend <time in seconds>`]
 
-   Bots get tired too, give them a few seconds of sleep.
+   Bots get tired too, give them a few seconds of sleep. It won't respond to anything while it's asleep, but when it wakes up, it will answer everything it missed
 
 ## Userbot Updates
 
@@ -139,5 +139,5 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
 
    Downloads the userbot updates into the machine, and leaves the `restart` option to you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzI4ODYwMF19
+eyJoaXN0b3J5IjpbNjgxMTYwMjgyXX0=
 -->
