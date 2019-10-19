@@ -71,9 +71,9 @@ loads only the core modules.
    *PSST, did you know that we can load [Paperplane](https://github.com/MyPaperPlane/Telegram-UserBot) and [Uniborg](https://github.com/SpEcHiDe/UniBorg) modules too?*
 
  - **Unloading custom modules**
-[Syntax: `unloadmod <module class name>`]
+[Syntax: `unloadmod <module name>`]
 
-   Unloads the modules loaded in the specified module name (found in help).
+   Unloads the modules loaded in the specified module name (found in help command).
 
 ## Anti Collisions
 
@@ -132,6 +132,6 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
 
    Restarts the userbot.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTQyNjE4OSwtNjcxMjIwMzMyLDY4MT
+eyJoaXN0b3J5IjpbMTM2ODg2ODM5NCwtNjcxMjIwMzMyLDY4MT
 E2MDI4Ml19
 -->
