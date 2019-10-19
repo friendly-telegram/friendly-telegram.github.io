@@ -27,9 +27,7 @@ Core modules that are always loaded to the userbot
  - **Add command alias** 
 [Syntax: `addalias <alias> <command>`]
 
-   The default command names too long for you?
-
-   Set an alias for it using this command.
+   The default command names too long for you? Set an alias for it using this command.
 
 ## Help and Support
 
@@ -66,16 +64,16 @@ loads a minimal set of modules.
 loads only the core modules.
 
  - **Loading custom modules**
-[Syntax: `loadmod <path to module file>` (or) reply to a module file with `loadmod`]
+[Syntax: `loadmod <path to module file on host>` or reply to a module file with `loadmod`]
 
    Loads the 3rd party (external) module into your userbot.
 
-   *PSST, did you know that we can load [Paperplane](https://github.com/MyPaperPlane/Telegram-UserBot) and [Uniborg](https://github.com/SpEcHiDe/UniBorg) modules too ?*
+   *PSST, did you know that we can load [Paperplane](https://github.com/MyPaperPlane/Telegram-UserBot) and [Uniborg](https://github.com/SpEcHiDe/UniBorg) modules too?*
 
  - **Unloading custom modules**
 [Syntax: `unloadmod <module class name>`]
 
-   Unloads the modules loaded in the specified class name.
+   Unloads the modules loaded in the specified module name (found in help).
 
 ## Anti Collisions
 
@@ -134,5 +132,6 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
 
    Restarts the userbot.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTIyMDMzMiw2ODExNjAyODJdfQ==
+eyJoaXN0b3J5IjpbMTE2OTQyNjE4OSwtNjcxMjIwMzMyLDY4MT
+E2MDI4Ml19
 -->
