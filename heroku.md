@@ -16,7 +16,7 @@ If using Android to set up, use [Termux](https://play.google.com/store/apps/deta
 4)After that you will be asked to enter you Heroku API. Copy the API Key and paste it in Terminal
     (Get this in Heroku account settings, scroll down to the very bottom). 
 
-5)Now Heroku should've started building and deploying the bot on its own (though it is adviced to always check the logs!)  
+5)Now Heroku will start building and deploying the bot for you. When the command finishes, you can type `.help` on Telegram to check the status
 
 Alternatively if you cannot use the script, you should run the following:
 ```
