@@ -16,14 +16,21 @@
 [Syntax: `enlydia [user id]`]
 
    Enables Lydia AI for the specified user ID, or for the user you are messaging
+
  - **Disable**
 [Syntax: `dislydia [user id]`]
 
    Disables Lydia for the specified user, or the user you are messaging
+
  - **Enable in Groups**
 [Syntax: `forcelydia [user id]`]
 
-   Forcibly enables Lydia for that user. If sent in a group, it will also force 
+   Forcibly enables Lydia for that user. If sent in a group, Lydia will be enabled for that user in the group.
+
+ - **Remove all active sessions**
+[Syntax: `cleanlydiadisabled`]
+
+   Resets all conversations that are ongoing with Lydia. I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTk3MjUzMywtOTgzMjQwODYwXX0=
+eyJoaXN0b3J5IjpbMTI2NTczNzYxOCwtOTgzMjQwODYwXX0=
 -->
