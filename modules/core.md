@@ -81,15 +81,16 @@ loads only the core modules.
  - **Kill all other userbot sessions**
 [Syntax: `cleanbots`]
 
-   Kills all other userbot sessions, to make sure that there's only one userbot running on your account. This is important, as otherwise commands will crash due to attempting to do them twice.
+   Terminates all other userbot sessions, to make sure that there's only one userbot running on your account. This is important, as otherwise commands will crash due to attempting to do them twice.
 
-The userbot session with the lowest ping is the one likely to be left alive for better experience.
+   The userbot session with the lowest ping is the one likely to be left alive for better experience.
 
 ## Userbot as a Python REPL
 
  - **Evaluate a Python expression**
 [Syntax: `eval <your Python snippet>`]
-*(Multi-line expressions work fine here, as well as asyncio and imports. Cool, isn't it?)*
+
+   *(Multi-line expressions work fine here, as well as asyncio and imports. Cool, isn't it?)*
 
    Executes the Python snippet as if it were a Python script on your machine. The output of this expression is shown as an edited message.
 
@@ -99,7 +100,7 @@ The userbot session with the lowest ping is the one likely to be left alive for 
 
    Same as the `eval` function above, except that it doesn't return the output of the expression in the chat.
 
-Note that the asynchronous expressions (like Telethon's methods) needs to be awaited, else it may not execute and just throw a warning at the logs.
+   Note that the asynchronous expressions (like Telethon's methods) needs to be awaited, else it may not execute and just throw a warning at the logs.
    
 ## Testing tools.
 
@@ -116,7 +117,8 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
  - **Get userbot traceback logs**
 [Syntax: `logs <log level>`]
 
-   Uploads a text file with the userbot traceback data at the specified log level. Know more about the `log level` arguement [here](https://docs.python.org/3/library/logging.html#logging-levels).
+   Uploads a text file with the userbot traceback data at the specified log level. Know more about the `log level` argument [here](https://docs.python.org/3/library/logging.html#logging-levels).
+   
 
  - **Suspend the userbot for a few seconds**
 [Syntax: `suspend <time in seconds>`]
@@ -135,6 +137,6 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
 
    Restarts the userbot.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTYzMjc4OSwxMzY4ODY4Mzk0LC02Nz
+eyJoaXN0b3J5IjpbMTI1OTgzNDQ2MywxMzY4ODY4Mzk0LC02Nz
 EyMjAzMzIsNjgxMTYwMjgyXX0=
 -->
