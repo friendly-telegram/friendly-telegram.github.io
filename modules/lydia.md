@@ -21,6 +21,7 @@
    Disables Lydia for the specified user, or the user you are messaging
  - **Enable in Groups**
 [Syntax: `forcelydia [user id]`]
+   Forcibly enables Lydia for that user. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTc0NDE5Nl19
+eyJoaXN0b3J5IjpbLTk4MzI0MDg2MF19
 -->
