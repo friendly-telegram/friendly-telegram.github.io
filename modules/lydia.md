@@ -18,10 +18,12 @@
    Enables Lydia AI for the specified user ID, or for the user you are messaging
  - **Disable**
 [Syntax: `dislydia [user id]`]
+
    Disables Lydia for the specified user, or the user you are messaging
  - **Enable in Groups**
 [Syntax: `forcelydia [user id]`]
-   Forcibly enables Lydia for that user. 
+
+   Forcibly enables Lydia for that user. If sent in a group, it will also force 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzI0MDg2MF19
+eyJoaXN0b3J5IjpbMTM4OTk3MjUzMywtOTgzMjQwODYwXX0=
 -->
