@@ -6,18 +6,16 @@ Core modules that are always loaded to the userbot
 ## Core Control
 
  - **Blacklist** 
-[Syntax: `blacklist <chat id>`]
+[Syntax: `blacklist [chat id]`]
 
    Disables all userbot commands in that chat.
 
-   NOTE: the current chat is used when `<chat id>` is not given.
+   NOTE: the current chat is used when `[chat id]` is not given.
 
  - **Unblacklist** 
 [Syntax: `unblacklist <chat id>`]
 
    Removes the chat from the blacklist.
-
-   NOTE: the current chat is used when `<chat id>` is not given.
 
  - **Set command prefix** 
 [Syntax: `setprefix <command prefix>`]
@@ -32,9 +30,9 @@ Core modules that are always loaded to the userbot
 ## Help and Support
 
  - **Getting help for commands** 
-[Syntax: `help <command>`]
+[Syntax: `help [command]`]
 
-   Shows you the help text for the specified command name.
+   Shows you the help text for the specified command name, or all commands if no name was given.
 
  - **Join support chat** 
 [Syntax: `support`]
@@ -44,7 +42,7 @@ Core modules that are always loaded to the userbot
 ## Loading and unloading modules
 
  - **Downloading modules** 
-[Syntax: `dlmod <module name>`]
+[Syntax: `dlmod <module name/URL>`]
 
    Downloads the specified module from the official modules repository.
 
@@ -132,6 +130,6 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
 
    Restarts the userbot.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODg2ODM5NCwtNjcxMjIwMzMyLDY4MT
-E2MDI4Ml19
+eyJoaXN0b3J5IjpbMTk1MTkyMzkzLDEzNjg4NjgzOTQsLTY3MT
+IyMDMzMiw2ODExNjAyODJdfQ==
 -->
