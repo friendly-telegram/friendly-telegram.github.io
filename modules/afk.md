@@ -10,7 +10,7 @@
  - **Returning from AFK**
 [Syntax: `unafk`]
 
-   Disables 
+   Disables out-of-office reply. That simple.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDI5MjI1OV19
+eyJoaXN0b3J5IjpbLTY1MTMwNDAwMV19
 -->
