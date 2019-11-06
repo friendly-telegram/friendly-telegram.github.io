@@ -1,6 +1,6 @@
 # Lydia (AI Chat)
 
-## Acquiring an API key:
+## Acquiring an API key
 
 1. Go to [the CoffeeHouse website](https://coffeehouse.intellivoid.info "the website") and register for an account.
 
@@ -42,9 +42,12 @@
 ## Configuration
 
  - **API Key**
-[Key: `friendly-telegram.modules.lydia.CLIENT_KEY`]
+[Key: `friendly-telegram.modules.lydia.CLIENT_KEY`Type: `str`]
 
-   This is the API key, see 
+   This is the API key, see [here](#acquiring-an-api-key "here")
+
+ - **Ignore users with no common chats**
+[Key: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjQ1MTQwOSwtOTgzMjQwODYwXX0=
+eyJoaXN0b3J5IjpbNTU0ODczMTMyLC05ODMyNDA4NjBdfQ==
 -->
