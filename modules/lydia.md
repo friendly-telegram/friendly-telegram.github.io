@@ -49,9 +49,7 @@
  - **Ignore users with no common chats**
 [Key: `friendly-telegram.modules.lydia.IGNORE_NO_COMMON`, Type: `boolean`]
 
-   If set to `True`, users who find you by username/search will not have Lydia enabled. Lydia will only apply for users who have groups in common with you.
-
-   *
+   If set to `True`, users who find you by username/search will not have Lydia enabled. Lydia will only apply for users who have groups in common with you. Note that `forcelydia` can still override this.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ3NDUxMjIsLTk4MzI0MDg2MF19
+eyJoaXN0b3J5IjpbLTE5MDg0ODA2ODksLTk4MzI0MDg2MF19
 -->
