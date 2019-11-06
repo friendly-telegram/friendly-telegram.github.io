@@ -12,6 +12,8 @@
 
 5. Enter [the configurator](configuration#configuring-modules). Select: Modules -> Lydia Anti-PM -> CLIENT_KEY and paste the key from your clipboard. Exit the configurator and type `.restart` in Telegram.
 
+## Commands
+
 - **Enable**
 [Syntax: `enlydia [user id]`]
 
@@ -35,7 +37,14 @@
  - **Remove all allowed users**
 [Syntax: `cleanlydiadisabled`]
 
-   Re-enables Lydia for everyone. This will not override `IGNORE_NO`
+   Re-enables Lydia for everyone. This will not override `IGNORE_NO_COMMON`.
+
+## Configuration
+
+ - **API Key**
+[Key: `friendly-telegram.modules.lydia.CLIENT_KEY`]
+
+   This is the API key, see 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc5MjY2MTcsLTk4MzI0MDg2MF19
+eyJoaXN0b3J5IjpbLTgwMjQ1MTQwOSwtOTgzMjQwODYwXX0=
 -->
