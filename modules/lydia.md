@@ -15,9 +15,12 @@
 - **Enable**
 [Syntax: `enlydia [user id]`]
 
-   Enables Lydia AI for the specified user ID, or for the current user
+   Enables Lydia AI for the specified user ID, or for the user you are messaging
  - **Disable**
 [Syntax: `dislydia [user id]`]
+   Disables Lydia for the specified user, or the user you are messaging
+ - **Enable in Groups**
+[Syntax: `forcelydia [user id]`]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDYyOTczMV19
+eyJoaXN0b3J5IjpbMTk2MTc0NDE5Nl19
 -->
