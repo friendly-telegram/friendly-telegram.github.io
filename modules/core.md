@@ -42,9 +42,12 @@ Core modules that are always loaded to the userbot
 ## Loading and unloading modules
 
  - **Downloading modules** 
-[Syntax: `dlmod <module name/URL>`]
+[Syntax: `dlmod [module name/URL]`]
 
-   Downloads the specified module from the official modules repository.
+   Downloads the specified module from the official modules repository. If no name or URL is given, you get a list of official modules available
+   
+   *PSST, did you know that you can load [Paperplane](https://github.com/MyPaperPlane/Telegram-UserBot) and [Uniborg](https://github.com/SpEcHiDe/UniBorg) modules too?*
+
 
  - **Module Presets** 
 [Syntax: `dlpreset <preset name>`]
@@ -66,7 +69,7 @@ loads only the core modules.
 
    Loads the 3rd party (external) module into your userbot.
 
-   *PSST, did you know that we can load [Paperplane](https://github.com/MyPaperPlane/Telegram-UserBot) and [Uniborg](https://github.com/SpEcHiDe/UniBorg) modules too?*
+   *PSST, did you know that you can load [Paperplane](https://github.com/MyPaperPlane/Telegram-UserBot) and [Uniborg](https://github.com/SpEcHiDe/UniBorg) modules too?*
 
  - **Unloading custom modules**
 [Syntax: `unloadmod <module name>`]
@@ -78,7 +81,9 @@ loads only the core modules.
  - **Kill all other userbot sessions**
 [Syntax: `cleanbots`]
 
-   Kills all other userbot sessions, to make sure that there's only one userbot running on your account. This is important, as otherwise commands will crash due to attempting to do them twice. The userbot session with the lowest ping is the one likely to be left alive for better experience.
+   Kills all other userbot sessions, to make sure that there's only one userbot running on your account. This is important, as otherwise commands will crash due to attempting to do them twice.
+
+The userbot session with the lowest ping is the one likely to be left alive for better experience.
 
 ## Userbot as a Python REPL
 
@@ -130,6 +135,6 @@ Note that the asynchronous expressions (like Telethon's methods) needs to be awa
 
    Restarts the userbot.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTkyMzkzLDEzNjg4NjgzOTQsLTY3MT
-IyMDMzMiw2ODExNjAyODJdfQ==
+eyJoaXN0b3J5IjpbMTkwOTYzMjc4OSwxMzY4ODY4Mzk0LC02Nz
+EyMjAzMzIsNjgxMTYwMjgyXX0=
 -->
