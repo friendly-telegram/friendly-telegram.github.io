@@ -13,7 +13,7 @@
 5. Enter [the configurator](configuration#configuring-modules). Select: Modules -> Lydia Anti-PM -> CLIENT_KEY and paste the key from your clipboard. Exit the configurator and type `.restart` in Telegram.
 
 - **enlydia**
-[Syntax: 
+[Syntax: `enlydia [user_id]`]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMwNDQ1ODhdfQ==
+eyJoaXN0b3J5IjpbLTE0NTM0MDUzNl19
 -->
