@@ -10,7 +10,7 @@ Core modules that are always loaded to the userbot
 
    Disables all userbot commands in that chat.
 
-   NOTE: the current chat is used when `[chat id]` is not given.
+   The current chat is used when `[chat id]` is not given.
 
  - **Unblacklist** 
 [Syntax: `unblacklist <chat id>`]
@@ -96,7 +96,8 @@ loads only the core modules.
 
  - **Execute a Python expression**
 [Syntax: `exec <your Python snippet>`]
-*(Multi-line expressions work fine here, as well as asyncio and imports. Cool, isn't it?)*
+
+   *(Multi-line expressions work fine here, as well as asyncio and imports. Cool, isn't it?)*
 
    Same as the `eval` function above, except that it doesn't return the output of the expression in the chat.
 
@@ -137,6 +138,6 @@ loads only the core modules.
 
    Restarts the userbot.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTgzNDQ2MywxMzY4ODY4Mzk0LC02Nz
-EyMjAzMzIsNjgxMTYwMjgyXX0=
+eyJoaXN0b3J5IjpbLTE0ODUzODUxMDEsMTM2ODg2ODM5NCwtNj
+cxMjIwMzMyLDY4MTE2MDI4Ml19
 -->
