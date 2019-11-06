@@ -42,12 +42,16 @@
 ## Configuration
 
  - **API Key**
-[Key: `friendly-telegram.modules.lydia.CLIENT_KEY`Type: `str`]
+[Key: `friendly-telegram.modules.lydia.CLIENT_KEY`, Type: `str`]
 
    This is the API key, see [here](#acquiring-an-api-key "here")
 
  - **Ignore users with no common chats**
-[Key: 
+[Key: `friendly-telegram.modules.lydia.IGNORE_NO_COMMON`, Type: `boolean`]
+
+   If set to `True`, users who find you by username/search will not have Lydia enabled. Lydia will only apply for users who have groups in common with you.
+
+   *
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0ODczMTMyLC05ODMyNDA4NjBdfQ==
+eyJoaXN0b3J5IjpbLTE3NTQ3NDUxMjIsLTk4MzI0MDg2MF19
 -->
