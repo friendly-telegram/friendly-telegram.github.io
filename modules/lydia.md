@@ -28,9 +28,14 @@
    Forcibly enables Lydia for that user. If sent in a group, Lydia will be enabled for that user in the group.
 
  - **Remove all active sessions**
+[Syntax: `cleanlydiasessions`]
+
+   Resets all conversations that are ongoing with Lydia. It will lose all state and context and restart the conversation.
+
+ - **Remove all allowed users**
 [Syntax: `cleanlydiadisabled`]
 
-   Resets all conversations that are ongoing with Lydia. I
+   Re-enables Lydia for everyone. This will not override `IGNORE_NO`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTczNzYxOCwtOTgzMjQwODYwXX0=
+eyJoaXN0b3J5IjpbLTEzMTc5MjY2MTcsLTk4MzI0MDg2MF19
 -->
