@@ -90,14 +90,14 @@ loads only the core modules.
  - **Evaluate a Python expression**
 [Syntax: `eval <your Python snippet>`]
 
-   *(Multi-line expressions work fine here, as well as asyncio and imports. Cool, isn't it?)*
+   *Multi-line expressions work fine here, as well as asyncio and imports. Cool, isn't it?*
 
    Executes the Python snippet as if it were a Python script on your machine. The output of this expression is shown as an edited message.
 
  - **Execute a Python expression**
 [Syntax: `exec <your Python snippet>`]
 
-   *(Multi-line expressions work fine here, as well as asyncio and imports. Cool, isn't it?)*
+   *Multi-line expressions work fine here, as well as asyncio and imports. Cool, isn't it?*
 
    Same as the `eval` function above, except that it doesn't return the output of the expression in the chat.
 
@@ -118,8 +118,8 @@ loads only the core modules.
  - **Get userbot traceback logs**
 [Syntax: `logs <log level>`]
 
-   Uploads a text file with the userbot traceback data at the specified log level. Know more about the `log level` argument [here](https://docs.python.org/3/library/logging.html#logging-levels).
-   
+   Uploads a text file with the userbot traceback data at the specified log level. Know more about the `log level` argument [here](https://docs.python.org/3/library/logging.html#logging-levels "The Python documentation").
+   **Logs at level 20 or below may contain personal information**
 
  - **Suspend the userbot for a few seconds**
 [Syntax: `suspend <time in seconds>`]
@@ -138,6 +138,6 @@ loads only the core modules.
 
    Restarts the userbot.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUzODUxMDEsMTM2ODg2ODM5NCwtNj
+eyJoaXN0b3J5IjpbLTIxMzQyODA4NTEsMTM2ODg2ODM5NCwtNj
 cxMjIwMzMyLDY4MTE2MDI4Ml19
 -->
