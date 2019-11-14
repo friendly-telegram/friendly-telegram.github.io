@@ -10,7 +10,7 @@
 
 4. Visit [the website](https://coffeehouse.intellivoid.info "the website") again. Now, your API key should be visible. Copy it to your clipboard
 
-5. Enter [the configurator](configuration#configuring-modules). Select: Modules -> Lydia Anti-PM -> CLIENT_KEY and paste the key from your clipboard. Exit the configurator and type `.restart` in Telegram.
+5. Enter [the configurator](/configuration#configuring-modules). Select: Modules -> Lydia Anti-PM -> CLIENT_KEY and paste the key from your clipboard. Exit the configurator and type `.restart` in Telegram.
 
 ## Commands
 
