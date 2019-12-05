@@ -15,6 +15,9 @@ Friendly-Telegram supports translation of most [strings](https://techterms.com/d
 7. Change the strings
 8. Click the purple button in the bottom right to return to the top of the page
 9. Click `Export Data`
+10. Save the file somewhere on your hard disk
+11. Create a Telegram channel. Name it however you want
+12. Upload the file you downloaded to this channel. **You must put a caption of*`#ftgtrnsl1`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzMwOTQ3NywtMTA2NDkwMTA4XX0=
+eyJoaXN0b3J5IjpbLTQ2ODc0NDQxLC0xMDY0OTAxMDhdfQ==
 -->
