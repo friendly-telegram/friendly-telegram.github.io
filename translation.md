@@ -7,7 +7,9 @@ Friendly-Telegram supports translation of most [strings](https://techterms.com/d
 
    You can read more on local setup in [the docs](/installing "Installation")
 2. Open the web interface
-   On whatever device is hosting the userbot, visit [this link](http://localhost:8080). It will open the friendly-telegram sign-in page. 
+   On whatever device is hosting friendly-telegram, visit [this link](http://localhost:8080). It will open the friendly-telegram sign-in page. This page is secure, as the data inputted never leaves your device. 
+3. On this page, click the blue button (if there are multiple, it doesn't matter which you click). Enter the authentication code found in your saved messages. You will be presented with the welcome page.
+4. From the welcome page, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYyNjk5MjhdfQ==
+eyJoaXN0b3J5IjpbLTE0NTYzNjgwNjZdfQ==
 -->
