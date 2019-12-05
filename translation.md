@@ -9,7 +9,8 @@ Friendly-Telegram supports translation of most [strings](https://techterms.com/d
 2. Open the web interface
    On whatever device is hosting friendly-telegram, visit [this link](http://localhost:8080). It will open the friendly-telegram sign-in page. This page is secure, as the data inputted never leaves your device. 
 3. On this page, click the blue button (if there are multiple, it doesn't matter which you click). Enter the authentication code found in your saved messages. You will be presented with the welcome page.
-4. From the welcome page, click the hamburger menu button located in the top left. Choose the 
+4. From the welcome page, click the hamburger menu button located in the top left. Choose the `Translations` option from the list, and proceed to the next step.
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA2MzY4MDVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjQ5MDEwOF19
 -->
