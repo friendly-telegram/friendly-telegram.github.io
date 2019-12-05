@@ -2,6 +2,8 @@
 
 Friendly-Telegram supports translation of most [strings](https://techterms.com/definition/string "definition"). Currently, there is not a very easy way to make translations packs, but it is possible. This is a guide on how to do so.
 
+## Creating a pack
+
 1. Set up locally
    You can't create a translation pack if you are using Heroku. This is due to restrictions placed on apps by Heroku itself, and is not fixable, nor a bug. 
 
@@ -18,9 +20,12 @@ Friendly-Telegram supports translation of most [strings](https://techterms.com/d
 10. Save the file somewhere on your hard disk
 11. Create a Telegram channel. Name it however you want
 12. Upload the file you downloaded to this channel. You **must** put a caption of `#ftgtrnsl1` on the file.
-13. Find the ID of the channel by typing `.exec message.edit(str(message.to_id))`
-14. In your saved messages, or a testing group, type `.addtrnsl <channel ID>`
-15. Type .restart to apply the changes!
+13. Set a username on the channel, so that you can apply it in the next sectiont
+
+## Applying a pack
+
+1. First, you have to know the username of the pack to add. If you don't know one, maybe you want to create a pack?
+2. Type in any 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjAwNzc3MiwtMTA2NDkwMTA4XX0=
+eyJoaXN0b3J5IjpbMTk0MDg5OTkzNCwtMTA2NDkwMTA4XX0=
 -->
