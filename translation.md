@@ -11,6 +11,10 @@ Friendly-Telegram supports translation of most [strings](https://techterms.com/d
 3. On this page, click the blue button (if there are multiple, it doesn't matter which you click). Enter the authentication code found in your saved messages. You will be presented with the welcome page.
 4. From the welcome page, click the hamburger menu button located in the top left. Choose the `Translations` option from the list, and proceed to the next step.
 5. Enter the ISO 639-1 language code into the textbox (pre-filled with `en`)
+6. Click the link for the module you want to translate
+7. Change the strings
+8. Click the purple button in the bottom right to return to the top of the page
+9. Click `Export Data`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4NTU4NjgwLC0xMDY0OTAxMDhdfQ==
+eyJoaXN0b3J5IjpbLTYxMzMwOTQ3NywtMTA2NDkwMTA4XX0=
 -->
