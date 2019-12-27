@@ -36,7 +36,7 @@ cd friendly-telegram
 5. Install requirements
 ```
 python3 -m pip install -r optional-requirements.txt
-python3 -m pip install -r requirements.txt
+python3 -m pip install -r mandatory-requirements.txt
 ```
 
 6. Follow the instructions written [here](https://core.telegram.org/api/obtaining_api_id "here") to get your API key/hash and ID
@@ -62,7 +62,7 @@ pkg install git python libjpeg-turbo zlib libwebp libffi libcairo build-essentia
 git clone https://github.com/friendly-telegram/friendly-telegram
 cd friendly-telegram
 pip install -r optional-requirements.txt
-pip install -r requirements.txt
+pip install -r mandatory-requirements.txt
 # For setup
 python -m friendly-telegram --setup
 # And again for actual execution
