@@ -9,7 +9,7 @@ Setting up on Heroku is extremely simple! Just follow the steps below.
 (. <($(which curl>/dev/null&&echo curl -Ls||echo wget -qO-) https://git.io/JeOXn) --heroku)
 ```
 
-2. You will be asked to enter your API ID and API HASH, which you can get from [Telegram](my.telegram.org) 
+2. You will be asked to enter your API ID and API HASH, which you can get from [Telegram](https://my.telegram.org) 
 
 3. After that, enter your Telegram phone number and you will receive a OTP from Telegram, put the same.
 
