@@ -11,6 +11,9 @@
 ## From Termux/PC
 1. Open a web browser
 2. Visit `http://localhost:8080`
+
+## For all devices
+6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODc5MDY4LDE5NDU1NTYxODVdfQ==
+eyJoaXN0b3J5IjpbMTQ0NTc3NDUwMSwxOTQ1NTU2MTg1XX0=
 -->
