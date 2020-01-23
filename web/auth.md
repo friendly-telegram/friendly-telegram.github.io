@@ -8,11 +8,13 @@
 2. Visit `http://localhost:8080`
 
 ## For all devices
-3. ![Screenshot](/web_auth.png)
+3. 
+   [Screenshot](/web_auth.png)
    You will see a page like this. Click on the button (there will be one per user account).
-4. Check your Telegram Saved Messages - you will have a 5-digit code there. Type it into the web interface and it will authenticate you. 
-5. ![Screenshot](/web_home.png)
+5. Check your Telegram Saved Messages - you will have a 5-digit code there. Type it into the web interface and it will authenticate you. 
+6. 
+   [Screenshot](/web_home.png)
    You will see this screen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNTQ4OTUxLDE5NDU1NTYxODVdfQ==
+eyJoaXN0b3J5IjpbLTE5MDQ2Mjk5MjksMTk0NTU1NjE4NV19
 -->
