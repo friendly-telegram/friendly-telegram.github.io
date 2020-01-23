@@ -1,6 +1,6 @@
 # Configuration
 
-The configuration interface is really easy! Just read this document
+## The configuration interface is really easy! Just read this document
 
 ## Entering configuration
 
@@ -17,7 +17,10 @@ Module settings are stored **inside your Telegram account**. To debug this, sear
 
 To set a module config, first enter the configurator. Select Modules. Choose the module you want to set an API key for, and press return. Scroll down to the entry for the api key and enter the value, pressing enter when done.
 
-Note that if you change the config on one computer while hosting on another, you need to restart the bot for it to apply.
+Note that if you change the config on one computer while hosting on another, you need to restart the bot for it to apply.new way
+### With Heroku
+Visit your Heroku configuration page. Make sure that the `web` dyno is enabled. Leave the other dyno untouched. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ1MDkzNzVdfQ==
+eyJoaXN0b3J5IjpbLTE1NDM3NzA1NTUsLTE2NzQ1MDkzNzVdfQ
+==
 -->
