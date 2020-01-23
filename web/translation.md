@@ -18,9 +18,9 @@ Friendly-Telegram supports translation of most [strings](https://techterms.com/d
 
 ## Applying a pack
 
-1. First, you have to know the username of the pack to add. If you don't know one, maybe you want to create a pack? Alternatively, you can use the invite link of the pack (you must already be a member), or the channel ID.
+1. First, you have to know the username of the pack to add. If you don't know one, maybe you want to [create a pack](#creating-a-pack)? Alternatively, you can use the invite link of the pack (you must already be a member), or the channel ID.
 2. Type in any chat, `.addtrnsl <pack username>`
 3. Type `.restart` to apply the changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODk2NDYwMl19
+eyJoaXN0b3J5IjpbLTQxNzg5MDY0MV19
 -->
