@@ -8,7 +8,8 @@
 5. ![Screenshot](/web_home.png)
    You will see this screen.
 
-
+## From Termux
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzM0Nzc1OV19
+eyJoaXN0b3J5IjpbMTk0NTU1NjE4NV19
 -->
