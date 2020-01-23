@@ -11,10 +11,10 @@
 3. 
    ![Screenshot](/web_auth.png)
    You will see a page like this. Click on the button (there will be one per user account).
-5. Check your Telegram Saved Messages - you will have a 5-digit code there. Type it into the web interface and it will authenticate you. 
-6. 
+4. Check your Telegram Saved Messages - you will have a 5-digit code there. Type it into the web interface and it will authenticate you. 
+5. 
    ![Screenshot](/web_home.png)
    You will see this screen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODIzNDQ3MSwxOTQ1NTU2MTg1XX0=
+eyJoaXN0b3J5IjpbMTM1Njg0OTk3NywxOTQ1NTU2MTg1XX0=
 -->
