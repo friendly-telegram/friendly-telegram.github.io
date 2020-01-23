@@ -8,8 +8,9 @@
 5. ![Screenshot](/web_home.png)
    You will see this screen.
 
-## From Termux
-1. 
+## From Termux/PC
+1. Open a web browser
+2. Visit `http://localhost:8080`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTU1NjE4NV19
+eyJoaXN0b3J5IjpbLTY3ODc5MDY4LDE5NDU1NTYxODVdfQ==
 -->
