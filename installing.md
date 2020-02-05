@@ -4,9 +4,8 @@
 
 ## Heroku method
 
-You can directly click ```md
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](
-```https://www.heroku.com/deploy/?template=https://github.com/friendly-telegram/friendly-telegram"><img src="https://www.herokucdn.com/deploy/button.svg" alt="The deploy button"></a> to deploy to Heroku. Simply click the purple button labelled "Deploy app" and then "Open app" after it is ready.
+You can directly click [![Deploy](https://www.herokucdn.com/deploy/button.svg)](
+https://www.heroku.com/deploy/?template=https://github.com/friendly-telegram/friendly-telegram) to deploy to Heroku. Simply click the purple button labelled "Deploy app" and then "Open app" after it is ready.
 
 ## CLI method
 
@@ -33,5 +32,5 @@ $(which curl>/dev/null&&echo curl -LsO||echo wget -q) https://git.io/JeOXn&&(. J
 
 [Click Here](installing_advanced "Advanced installation")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MjYzODcyLDQzNTI1OTQyMl19
+eyJoaXN0b3J5IjpbMzE3MjU5NDU1LDQzNTI1OTQyMl19
 -->
