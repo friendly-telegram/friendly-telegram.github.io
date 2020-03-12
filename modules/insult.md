@@ -3,11 +3,9 @@
 ## Commands
 
 - **Insult someone.**
-[Syntax: `lyrics <song title>, <artist>`]
+[Syntax: `insult`]
   
-  Fetches the lyrics of a song using the LyricsGenius API. Do note that it needs the API Key set up in the configurator.
-  
-  Example: `lyrics Godzilla, Eminem`
+  Generates an insulting message for the person you replied to, handy when you're too angry to think
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAzNzE4MTJdfQ==
+eyJoaXN0b3J5IjpbLTE0OTUyMjk5ODZdfQ==
 -->
